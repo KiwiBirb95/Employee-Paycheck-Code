@@ -1,0 +1,14 @@
+# ninja log v5
+0	30	1678820189505651697	CMakeFiles/Employee_pay.dir/AddEmployee.c.o	1d10bf902425ed2
+37	67	1678820306449646082	Employee_pay	ac657e29db721340
+0	28	1678840954319993181	build.ninja	9ce136f7a202a2e0
+1	23	1678820306401648931	CMakeFiles/Employee_pay.dir/CalcPaycheck.c.o	d1a4b22d11308ff6
+0	37	1678820306417647982	CMakeFiles/Employee_pay.dir/main.c.o	d959bfd9e81a7351
+1	48	1678841000677160736	CMakeFiles/Employee_pay.dir/AddEmployee.c.o	1d10bf902425ed2
+1	48	1678841000677160736	CMakeFiles/Employee_pay.dir/CalcPaycheck.c.o	d1a4b22d11308ff6
+0	48	1678841000677160736	CMakeFiles/Employee_pay.dir/main.c.o	d959bfd9e81a7351
+48	82	1678841000713161736	Employee_pay	ac657e29db721340
+0	35	1678841135441563287	CMakeFiles/Employee_pay.dir/main.c.o	d959bfd9e81a7351
+1	35	1678841135441563287	CMakeFiles/Employee_pay.dir/CalcPaycheck.c.o	d1a4b22d11308ff6
+1	35	1678841135441563287	CMakeFiles/Employee_pay.dir/AddEmployee.c.o	1d10bf902425ed2
+35	65	1678841135469564297	Employee_pay	ac657e29db721340

@@ -1,0 +1,3 @@
+/home/kiwibirb/CLionProjects/Employee_pay/cmake-build-debug/CMakeFiles/Employee_pay.dir
+/home/kiwibirb/CLionProjects/Employee_pay/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/kiwibirb/CLionProjects/Employee_pay/cmake-build-debug/CMakeFiles/rebuild_cache.dir
